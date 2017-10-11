@@ -13,7 +13,7 @@ The repository analyzes several aspects and characteristics of crime in Boston n
 
 
 ### Technologies used :-
-1) Python (Pandas, Numpy, Matplotlib) for Data cleaning
+1) Python (Pandas, Numpy, Matplotlib) for data cleaning
 2) Tableau for creating dashboards
 3) Jupyter Notebook for interactive scripting
 
