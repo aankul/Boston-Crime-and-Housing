@@ -1,6 +1,6 @@
 # Crime and Housing in Boston
 
-The repository analyzes different aspects and characteristics of Crime in Boston Neighborhood and tries to identify the reasons behind it. It also talks about where we should install an additional police station and location/street if you are looking to buy a new house.
+The repository analyzes several aspects and characteristics of crime in Boston neighborhood and tries to identify the reason behind it. It also talks about where we should install an additional police station and the location/street where you should buy a new house.
 
 
 ### Data Sources :-
