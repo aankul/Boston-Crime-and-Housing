@@ -19,5 +19,5 @@ The repository analyzes several aspects and characteristics of crime in Boston n
 
 
 ### Link to Tableau presentation :-
-https://public.tableau.com/profile/amulya.aankul#!/vizhome/GasBuddyPresentation/GasBuddy
+https://public.tableau.com/profile/amulya.aankul#!/vizhome/BostonCrimePresentation-updated/GasBuddy
 
